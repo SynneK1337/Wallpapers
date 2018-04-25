@@ -1,6 +1,6 @@
 # Wallpapers
 My wallpapers collection.
-Please add yours wallpaper.
+Please add your wallpapers.
 
 # Deleting Duplicates while pull requesting
 ```
