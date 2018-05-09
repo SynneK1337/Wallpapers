@@ -6,6 +6,8 @@ os.chdir(path)
 filenames = os.listdir(path)
 hashes = []
 duplicates = []
+
+
 def md5(fname):
     hash_md5 = hashlib.md5()
     with open(fname, "rb") as f:
@@ -14,7 +16,7 @@ def md5(fname):
         if hash_md5.hexdigest() in hashes:
             duplicates.append(fname)
         hashes.append(hash_md5.hexdigest())
-    
+
 
 for filename in filenames:
     md5(filename)
