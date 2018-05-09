@@ -6,3 +6,5 @@ Please add your wallpapers.
 ```
 python delete_duplicates.py
 ```
+# Thumbnails
+![wall|512x512, 20%](imgs/vaporwave.jpg)
