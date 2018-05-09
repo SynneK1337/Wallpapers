@@ -6,3 +6,6 @@ Please add your wallpapers.
 ```
 python delete_duplicates.py
 ```
+
+# Thumbnails
+[here](https://github.com/SynneK1337/Wallpapers/blob/master/thumbnails.md)
